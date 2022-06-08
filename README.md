@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Type about project
+This is Portfolio using Bootstrap
 
 ### Built With
 This project was built using these technologies.
@@ -51,13 +51,18 @@ clone this repo:
 
 <!-- CONTACT -->
 ## Author
-👤 Shahira Sadat
+👤 Victor Walugembe
 
+- GitHub: [Victor Walugembe](https://github.com/victyr)
+- Twitter: [Victor Walugembe](https://twitter.com/Vic_Tyr)
+- Linkedin: [Victor Walugembe](https://www.linkedin.com/in/victor-walugembe-535a49234/)
+
+## Author
+👤 Shahira Sadat
 
 - GitHub: [Shahira Sadat](https://github.com/shahira-sadat)
 - Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
-- Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
-- Gmail: shahira.sadat1@gmail.com
+- Linkedin: [Shahira Sadat](https://www.linkedin.com/shahira-sadat-49b402199)
 
 
 ## Show your support
